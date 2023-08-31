@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The class time
+- Location
+- The teachers/TA's
 
 1. Numbered
 2. List
